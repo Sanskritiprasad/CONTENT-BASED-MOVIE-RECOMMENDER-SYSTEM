@@ -55,7 +55,7 @@ if st.button('RECOMMEND'):
         st.text(names[4])
         st.image(posters[4])
 
-st.text('Author-Diyansh Gupta')
+st.text('Author-Sanskriti Prasad')
 
 
 
